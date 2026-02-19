@@ -18,3 +18,17 @@ python student_record_cli.py
 - Conditionals
 - File I/O
 - Exception handling
+
+
+## Versions
+
+### V1 — `student_record_cli.py`
+Original CRUD CLI app.
+
+### V2 — `student_record_cli_v2.py`
+Refactored version with:
+- structured data parsing
+- search by name
+- find topper
+- delete student
+- cleaner output format
